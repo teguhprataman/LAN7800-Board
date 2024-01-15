@@ -63,7 +63,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBGGGWVI
@@ -1090,11 +1090,11 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
-NetClassAutoNamedHarnessEnabled=0
+NetClassAutoNamedHarnessEnabled=1
 NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
@@ -1123,12 +1123,39 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=3V3|NetColor=$006E6EFF
+Net2=NetName=5V|NetColor=$003399FF
+Net3=NetName=EEPROM_CLK|NetColor=$006EFF6E
+Net4=NetName=EEPROM_CS|NetColor=$006EFF6E
+Net5=NetName=EEPROM_DI|NetColor=$006EFF6E
+Net6=NetName=EEPROM_DO|NetColor=$006EFF6E
+Net7=NetName=TR0_N|NetColor=$0066CCFF
+Net8=NetName=TR0_P|NetColor=$0066CCFF
+Net9=NetName=TR1_N|NetColor=$0066CCFF
+Net10=NetName=TR1_P|NetColor=$0066CCFF
+Net11=NetName=TR2_N|NetColor=$0066CCFF
+Net12=NetName=TR2_P|NetColor=$0066CCFF
+Net13=NetName=TR3_N|NetColor=$0066CCFF
+Net14=NetName=TR3_P|NetColor=$0066CCFF
+Net15=NetName=USB_RX_N|NetColor=$00FF6E6E
+Net16=NetName=USB_RX_P|NetColor=$00FF6E6E
+Net17=NetName=USB_TX_N|NetColor=$00FF6E6E
+Net18=NetName=USB_TX_P|NetColor=$00FF6E6E
+Net19=NetName=USBC_D_N|NetColor=$00FF6600
+Net20=NetName=USBC_D_P|NetColor=$00FF6600
+Net21=NetName=USBC_TX_N|NetColor=$00FF6E6E
+Net22=NetName=USBC_TX_P|NetColor=$00FF6E6E
+Net23=NetName=VBUS|NetColor=$003399FF
+Net24=NetName=VDD12|NetColor=$000033FF
+Net25=NetName=VDD25|NetColor=$000066FF
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 
 [SmartPDF]
