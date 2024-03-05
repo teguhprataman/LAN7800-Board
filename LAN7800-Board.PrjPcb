@@ -85,6 +85,127 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYLRXFRY
 
+[ProjectVariant1]
+UniqueID=67D3F0FD-9BBE-4B87-80A1-A56B59F4097A
+Description=EEPROM-B-Series
+AllowFabrication=1
+ParameterCount=0
+VariationCount=2
+AllowVariationPastMask=1
+Variation1=Designator=R9|UniqueId=\JXBIFROB|Kind=1|AlternatePart= 
+Variation2=Designator=U2|UniqueId=\TKFDSCXP|Kind=2|AlternatePart=93LC66BT-I/SN|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Teguh\Altium\Libraries\Memory\Project Outputs for Memory\Memory.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=93LC66BT-I/SN|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Memory.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOIC-SN8_N|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Access Time|VariantValue=200ns
+ParamDesignator1=U2
+ParamVariation2=ParameterName=Access Time-Max|VariantValue=250ns
+ParamDesignator2=U2
+ParamVariation3=ParameterName=Case/Package|VariantValue=SOIC
+ParamDesignator3=U2
+ParamVariation4=ParameterName=Category|VariantValue=EEPROM
+ParamDesignator4=U2
+ParamVariation5=ParameterName=Clock Frequency|VariantValue=2MHz
+ParamDesignator5=U2
+ParamVariation6=ParameterName=Code_IPC|VariantValue=SOIC127P600-8
+ParamDesignator6=U2
+ParamVariation7=ParameterName=Code_JEDEC|VariantValue=MS-012
+ParamDesignator7=U2
+ParamVariation8=ParameterName=Comment|VariantValue=93LC66BT-I/SN
+ParamDesignator8=U2
+ParamVariation9=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator9=U2
+ParamVariation10=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/9281/jp011819-9281695.pdf?src-supplier=Avnet
+ParamDesignator10=U2
+ParamVariation11=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/9281/jp011819-9281695.pdf?src-supplier=Avnet
+ParamDesignator11=U2
+ParamVariation12=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/14134/93lc66-abc-eng-tds-14134776.pdf?src-supplier=Distrelec
+ParamDesignator12=U2
+ParamVariation13=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/14134/93lc66-abc-eng-tds-14134776.pdf?src-supplier=Distrelec
+ParamDesignator13=U2
+ParamVariation14=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/15123/getdatasheetpartid-573913-15123853.pdf?src-supplier=Verical
+ParamDesignator14=U2
+ParamVariation15=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/15123/getdatasheetpartid-573913-15123853.pdf?src-supplier=Verical
+ParamDesignator15=U2
+ParamVariation16=ParameterName=DatasheetVersion|VariantValue=revD, May-2008
+ParamDesignator16=U2
+ParamVariation17=ParameterName=Density|VariantValue=4Kb
+ParamDesignator17=U2
+ParamVariation18=ParameterName=Description|VariantValue=Microwire Serial EEPROM Family, 2.5Vto 5.5V 2 MHz, -40°Cto 125°C, SOIC-8, RoHS
+ParamDesignator18=U2
+ParamVariation19=ParameterName=Footprint|VariantValue=SOIC-SN8_N
+ParamDesignator19=U2
+ParamVariation20=ParameterName=Frequency|VariantValue=2MHz
+ParamDesignator20=U2
+ParamVariation21=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator21=U2
+ParamVariation22=ParameterName=Interface|VariantValue=MICROWIRE,Serial,3-WIRE
+ParamDesignator22=U2
+ParamVariation23=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator23=U2
+ParamVariation24=ParameterName=Library Reference|VariantValue=93LC66BT-I/SN
+ParamDesignator24=U2
+ParamVariation25=ParameterName=Manufacturer|VariantValue=Microchip
+ParamDesignator25=U2
+ParamVariation26=ParameterName=Manufacturer Part Number|VariantValue=93LC66BT-I/SN
+ParamDesignator26=U2
+ParamVariation27=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator27=U2
+ParamVariation28=ParameterName=Max Supply Voltage|VariantValue=5.5V
+ParamDesignator28=U2
+ParamVariation29=ParameterName=Memory Format|VariantValue=EEPROM
+ParamDesignator29=U2
+ParamVariation30=ParameterName=Memory Size|VariantValue=4Kb
+ParamDesignator30=U2
+ParamVariation31=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator31=U2
+ParamVariation32=ParameterName=Min Supply Voltage|VariantValue=2.5V
+ParamDesignator32=U2
+ParamVariation33=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator33=U2
+ParamVariation34=ParameterName=Nominal Supply Voltage|VariantValue=5.5V
+ParamDesignator34=U2
+ParamVariation35=ParameterName=PackageDescription|VariantValue=8-Lead Plastic Small Outline (SN) - Narrow, 3.90mm Body [SOIC]
+ParamDesignator35=U2
+ParamVariation36=ParameterName=Package Quantity|VariantValue=3300
+ParamDesignator36=U2
+ParamVariation37=ParameterName=PackageReference|VariantValue=SOIC-SN8
+ParamDesignator37=U2
+ParamVariation38=ParameterName=PackageVersion|VariantValue=revBB, Aug-2009
+ParamDesignator38=U2
+ParamVariation39=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator39=U2
+ParamVariation40=ParameterName=PCB3D|VariantValue= 
+ParamDesignator40=U2
+ParamVariation41=ParameterName=Pin Info|VariantValue= 
+ParamDesignator41=U2
+ParamVariation42=ParameterName=Pins|VariantValue=8
+ParamDesignator42=U2
+ParamVariation43=ParameterName=Pricing 1|VariantValue=3300=0.325 (USD)
+ParamDesignator43=U2
+ParamVariation44=ParameterName=Radiation Hardening|VariantValue=No
+ParamDesignator44=U2
+ParamVariation45=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator45=U2
+ParamVariation46=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator46=U2
+ParamVariation47=ParameterName=Series|VariantValue=-
+ParamDesignator47=U2
+ParamVariation48=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator48=U2
+ParamVariation49=ParameterName=Simulation|VariantValue= 
+ParamDesignator49=U2
+ParamVariation50=ParameterName=Stock 1|VariantValue=6600
+ParamDesignator50=U2
+ParamVariation51=ParameterName=Supplier 1|VariantValue=Future Electronics
+ParamDesignator51=U2
+ParamVariation52=ParameterName=Supplier Part Number 1|VariantValue=2054500
+ParamDesignator52=U2
+ParamVariation53=ParameterName=Supply Current|VariantValue=2mA
+ParamDesignator53=U2
+ParamVariation54=ParameterName=Write Cycle Time-Max (tWC)|VariantValue=6ms
+ParamDesignator54=U2
+ParamVariation55=ParameterName=Write Protection|VariantValue=NO
+ParamDesignator55=U2
+ParamVariationCount=55
+
 [GeneratedDocument1]
 DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
