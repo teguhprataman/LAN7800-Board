@@ -46,7 +46,6 @@ CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
 XNetsSourceDestinationPrefixes=U, X
 XNetsDiscretesPrefixes=R, L, C, VD
-CurrentVariant=EEPROM-B-Series
 
 [Preferences]
 PrefsVaultGUID=
