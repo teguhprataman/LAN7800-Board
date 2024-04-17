@@ -7,5 +7,7 @@ Use this files with your own risk
 
 **Designed PCB**
 
-[![Designed PCB](https://img.youtube.com/vi/2T7OFCwHG-E/0.jpg)](https://www.youtube.com/watch?v=2T7OFCwHG-E)
+https://github.com/teguhprataman/LAN7800-Board/assets/53725005/3cb8085d-8b10-4e8f-a14e-b0d36e22e1fc
+
+
 
