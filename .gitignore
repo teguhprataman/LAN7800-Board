@@ -1,2 +1,7 @@
 History/
 Constraints.xml
+*.zip
+*.pdf
+*.LOG
+/_Reference/Design Files
+__Previews/LAN7800-Board.SchDocPreview

@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : E:\Belajar\Altium\LAN7800-Board\LAN7800-Board.PcbDoc
+Date     : 17/03/2024
+Time     : 15:09:22
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad Free-2(34mm,15mm) on Multi-Layer on Net GND
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.09mm) (Max=0.254mm) (Preferred=0.127mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=0.254mm) (Preferred=0.254mm) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=2) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B1(62.91mm,17.8mm) on Multi-Layer And Pad J2-B2(63.61mm,17.4mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B10(63.61mm,13.4mm) on Multi-Layer And Pad J2-B9(62.91mm,13.8mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B11(63.61mm,12.6mm) on Multi-Layer And Pad J2-B12(62.91mm,12.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B3(63.61mm,16.6mm) on Multi-Layer And Pad J2-B4(62.91mm,16.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B4(62.91mm,16.2mm) on Multi-Layer And Pad J2-B5(63.61mm,15.8mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B5(63.61mm,15.8mm) on Multi-Layer And Pad J2-B6(62.91mm,15.4mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B7(62.91mm,14.6mm) on Multi-Layer And Pad J2-B8(63.61mm,14.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B8(63.61mm,14.2mm) on Multi-Layer And Pad J2-B9(62.91mm,13.8mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+Rule Violations :8
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (53.379mm,8.3mm) from L1 to L2 
+   Violation between Net Antennae: Via (53.379mm,9.242mm) from L1 to L2 
+   Violation between Net Antennae: Via (54.25mm,8.3mm) from L1 to L2 
+   Violation between Net Antennae: Via (54.25mm,9.242mm) from L1 to L2 
+Rule Violations :4
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (InDifferentialPairClass('MDI_DIFF'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:02
