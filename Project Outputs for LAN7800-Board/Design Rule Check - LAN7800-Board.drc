@@ -1,72 +1,66 @@
 Protel Design System Design Rule Check
 PCB File : E:\Belajar\Altium\LAN7800-Board\LAN7800-Board.PcbDoc
-Date     : 17/03/2024
-Time     : 15:09:22
+Date     : 27/10/2024
+Time     : 19:24:41
 
-WARNING: Unplated multi-layer pad(s) detected
-   Pad Free-2(34mm,15mm) on Multi-Layer on Net GND
-
-Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 3376.914 sq. mils
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.09mm) (Max=0.254mm) (Preferred=0.127mm) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=10mil) (Preferred=10mil) (InNetClass('POWER'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.127mm) (Max=0.254mm) (Preferred=0.254mm) (InNetClass('POWER'))
+Processing Rule : Width Constraint (Min=3.543mil) (Max=10mil) (Preferred=5mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=2) (InNetClass('POWER'))
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=2) (InNetClass('POWER'))
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=6mm) (All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=236.22mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.127mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=5mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B1(62.91mm,17.8mm) on Multi-Layer And Pad J2-B2(63.61mm,17.4mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B10(63.61mm,13.4mm) on Multi-Layer And Pad J2-B9(62.91mm,13.8mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B11(63.61mm,12.6mm) on Multi-Layer And Pad J2-B12(62.91mm,12.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B3(63.61mm,16.6mm) on Multi-Layer And Pad J2-B4(62.91mm,16.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B4(62.91mm,16.2mm) on Multi-Layer And Pad J2-B5(63.61mm,15.8mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B5(63.61mm,15.8mm) on Multi-Layer And Pad J2-B6(62.91mm,15.4mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B7(62.91mm,14.6mm) on Multi-Layer And Pad J2-B8(63.61mm,14.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.01mm) Between Pad J2-B8(63.61mm,14.2mm) on Multi-Layer And Pad J2-B9(62.91mm,13.8mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm] / [Bottom Solder] Mask Sliver [0.003mm]
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.394mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B1(2476.772mil,700.788mil) on Multi-Layer And Pad J2-B2(2504.331mil,685.039mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B10(2504.331mil,527.559mil) on Multi-Layer And Pad J2-B9(2476.772mil,543.307mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B11(2504.331mil,496.063mil) on Multi-Layer And Pad J2-B12(2476.772mil,480.315mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B3(2504.331mil,653.543mil) on Multi-Layer And Pad J2-B4(2476.772mil,637.795mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B4(2476.772mil,637.795mil) on Multi-Layer And Pad J2-B5(2504.331mil,622.047mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B5(2504.331mil,622.047mil) on Multi-Layer And Pad J2-B6(2476.772mil,606.299mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B7(2476.772mil,574.803mil) on Multi-Layer And Pad J2-B8(2504.331mil,559.055mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.119mil < 0.394mil) Between Pad J2-B8(2504.331mil,559.055mil) on Multi-Layer And Pad J2-B9(2476.772mil,543.307mil) on Multi-Layer [Top Solder] Mask Sliver [0.119mil] / [Bottom Solder] Mask Sliver [0.119mil]
 Rule Violations :8
 
-Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Via (53.379mm,8.3mm) from L1 to L2 
-   Violation between Net Antennae: Via (53.379mm,9.242mm) from L1 to L2 
-   Violation between Net Antennae: Via (54.25mm,8.3mm) from L1 to L2 
-   Violation between Net Antennae: Via (54.25mm,9.242mm) from L1 to L2 
-Rule Violations :4
-
-Processing Rule : Matched Lengths(Tolerance=0.254mm) (InDifferentialPairClass('MDI_DIFF'))
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Processing Rule : Matched Lengths(Tolerance=10mil) (InDifferentialPairClass('MDI_DIFF'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 12
+Violations Detected : 9
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:00
