@@ -1,0 +1,72 @@
+StiFile 1.2
+# File generated on Wed Nov  6 22:00:14 2024
+
+Electric 1:
+  name: "U3"
+  voltage: 3.29879
+  current: -1.20003
+  pluspin: 1  voltage: 3.29879  current: -0.881118  name: "U3-1"
+  pluspin: 2  voltage: 3.2988  current: -0.318908  name: "U3-2"
+  minpin: 0  voltage: 0  current: 1.20003  name: "U3.min"
+
+Electric 2:
+  name: "U1"
+  voltage: 3.29621
+  current: 0.150003
+  pluspin: 9  voltage: 3.29619  current: -0.138413  name: "U1-14"
+  pluspin: 8  voltage: 3.29619  current: -0.102295  name: "U1-20"
+  pluspin: 10  voltage: 3.29619  current: 0.53043  name: "U1-36"
+  pluspin: 7  voltage: 3.29619  current: -0.0295613  name: "U1-38"
+  pluspin: 6  voltage: 3.29619  current: -0.0252307  name: "U1-39"
+  pluspin: 5  voltage: 3.29619  current: -0.084927  name: "U1-46"
+  minpin: 0  voltage: 0  current: -0.150003  name: "U1.min"
+
+Electric 3:
+  name: "C30"
+  voltage: 3.29826
+  current: 0.150003
+  pluspin: 12  voltage: 3.29826  current: 0.150003  name: "C30-2"
+  minpin: 0  voltage: 0  current: -0.150003  name: "C30.min"
+
+Electric 4:
+  name: "C28"
+  voltage: 3.29587
+  current: 0.150003
+  pluspin: 14  voltage: 3.29587  current: 0.150003  name: "C28-2"
+  minpin: 0  voltage: 0  current: -0.150003  name: "C28.min"
+
+Electric 5:
+  name: "C27"
+  voltage: 3.2961
+  current: 0.150003
+  pluspin: 16  voltage: 3.2961  current: 0.150003  name: "C27-2"
+  minpin: 0  voltage: 0  current: -0.150003  name: "C27.min"
+
+Electric 6:
+  name: "C26"
+  voltage: 3.29662
+  current: 0.150003
+  pluspin: 18  voltage: 3.29662  current: 0.150003  name: "C26-2"
+  minpin: 0  voltage: 0  current: -0.150003  name: "C26.min"
+
+Electric 7:
+  name: "C25"
+  voltage: 3.29565
+  current: 0.150003
+  pluspin: 20  voltage: 3.29565  current: 0.150003  name: "C25-2"
+  minpin: 0  voltage: 0  current: -0.150003  name: "C25.min"
+
+Electric 8:
+  name: "C14"
+  voltage: 3.29609
+  current: 0.150003
+  pluspin: 22  voltage: 3.29609  current: 0.150003  name: "C14-2"
+  minpin: 0  voltage: 0  current: -0.150003  name: "C14.min"
+
+Electric 9:
+  name: "C10"
+  voltage: 3.29573
+  current: 0.150003
+  pluspin: 24  voltage: 3.29573  current: 0.150003  name: "C10-2"
+  minpin: 0  voltage: 0  current: -0.150003  name: "C10.min"
+

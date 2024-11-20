@@ -1,0 +1,28 @@
+PinList size is 25
+Found 25 pins, 0 pins overlapped
+
+1	U3-1	Found,growthperc=0,findBufferLength=69,preferential=1, layerId=1, stackId=3, position= (0.049975,0.0241,0.00153398), inputPosition= (0.049975,0.0241,0.00155176), area= 1.17922e-07
+2	U3-2	Found,growthperc=0,findBufferLength=62,preferential=1, layerId=1, stackId=3, position= (0.049975,0.0237,0.00153398), inputPosition= (0.049975,0.0237,0.00155176), area= 8.75453e-08
+3	U3-3	Found,growthperc=0,findBufferLength=60,preferential=1, layerId=1, stackId=3, position= (0.049975,0.0233,0.00153398), inputPosition= (0.049975,0.0233,0.00155176), area= 1.19729e-07
+4	U3-7	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.0506,0.0237,0.00153398), inputPosition= (0.0506,0.0237,0.00155176), area= 2.82877e-07
+5	U1-46	Found,growthperc=0,findBufferLength=65,preferential=1, layerId=1, stackId=3, position= (0.03225,0.0184012,0.00153398), inputPosition= (0.03225,0.0184012,0.00155176), area= 1.48715e-07
+6	U1-39	Found,growthperc=0,findBufferLength=63,preferential=1, layerId=1, stackId=3, position= (0.03575,0.0184012,0.00153398), inputPosition= (0.03575,0.0184012,0.00155176), area= 1.02773e-07
+7	U1-38	Found,growthperc=0,findBufferLength=65,preferential=1, layerId=1, stackId=3, position= (0.03625,0.0184012,0.00153398), inputPosition= (0.03625,0.0184012,0.00155176), area= 1.33013e-07
+8	U1-20	Found,growthperc=0,findBufferLength=65,preferential=1, layerId=1, stackId=3, position= (0.03475,0.0115988,0.00153398), inputPosition= (0.03475,0.0115988,0.00155176), area= 8.6363e-08
+9	U1-14	Found,growthperc=0,findBufferLength=66,preferential=1, layerId=1, stackId=3, position= (0.03175,0.0115988,0.00153398), inputPosition= (0.03175,0.0115988,0.00155176), area= 1.41794e-07
+10	U1-36	Found,growthperc=0,findBufferLength=66,preferential=1, layerId=1, stackId=3, position= (0.0374012,0.01775,0.00153398), inputPosition= (0.0374012,0.01775,0.00155176), area= 1.09805e-07
+11	U1-49	Found,growthperc=0,findBufferLength=57,preferential=1, layerId=1, stackId=3, position= (0.034,0.015,0.00153398), inputPosition= (0.034,0.015,0.00155176), area= 7.99124e-07
+12	C30-2	Found,growthperc=0,findBufferLength=99,preferential=1, layerId=1, stackId=3, position= (0.048,0.024375,0.00153398), inputPosition= (0.048,0.024375,0.00155176), area= 3.85355e-07
+13	C30-1	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.048,0.023025,0.00153398), inputPosition= (0.048,0.023025,0.00155176), area= 8.98727e-07
+14	C28-2	Found,growthperc=0,findBufferLength=78,preferential=1, layerId=1, stackId=3, position= (0.03,0.02181,0.00153398), inputPosition= (0.03,0.02181,0.00155176), area= 2.23444e-07
+15	C28-1	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.03,0.02269,0.00153398), inputPosition= (0.03,0.02269,0.00155176), area= 3.837e-07
+16	C27-2	Found,growthperc=0,findBufferLength=70,preferential=1, layerId=1, stackId=3, position= (0.03725,0.02181,0.00153398), inputPosition= (0.03725,0.02181,0.00155176), area= 1.94811e-07
+17	C27-1	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.03725,0.02269,0.00153398), inputPosition= (0.03725,0.02269,0.00155176), area= 3.837e-07
+18	C26-2	Found,growthperc=0,findBufferLength=72,preferential=1, layerId=1, stackId=3, position= (0.04056,0.0192,0.00153398), inputPosition= (0.04056,0.0192,0.00155176), area= 1.85706e-07
+19	C26-1	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.04144,0.0192,0.00153398), inputPosition= (0.04144,0.0192,0.00155176), area= 3.837e-07
+20	C25-2	Found,growthperc=0,findBufferLength=70,preferential=1, layerId=1, stackId=3, position= (0.036,0.007915,0.00153398), inputPosition= (0.036,0.007915,0.00155176), area= 1.63171e-07
+21	C25-1	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.036,0.007035,0.00153398), inputPosition= (0.036,0.007035,0.00155176), area= 3.84513e-07
+22	C14-2	Found,growthperc=0,findBufferLength=72,preferential=1, layerId=1, stackId=3, position= (0.036,0.02181,0.00153398), inputPosition= (0.036,0.02181,0.00155176), area= 1.99847e-07
+23	C14-1	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.036,0.02269,0.00153398), inputPosition= (0.036,0.02269,0.00155176), area= 3.837e-07
+24	C10-2	Found,growthperc=0,findBufferLength=94,preferential=1, layerId=1, stackId=3, position= (0.0319,0.008,0.00153398), inputPosition= (0.0319,0.008,0.00155176), area= 3.64029e-07
+25	C10-1	Found,growthperc=0,findBufferLength=58,preferential=1, layerId=1, stackId=3, position= (0.0319,0.00665,0.00153398), inputPosition= (0.0319,0.00665,0.00155176), area= 9.0114e-07
