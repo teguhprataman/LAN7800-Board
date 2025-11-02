@@ -1,7 +1,7 @@
 DRC Rules Export File for PCB: G:\CAD\Altium\3. Work\LAN7800-Board\LAN7800-Board.PcbDoc
+RuleKind=Width|RuleName=MaxMinWidth_2|Scope=Board|Minimum=3.54
 RuleKind=Width|RuleName=MaxMinWidth_1|Scope=Board|Minimum=5.00
 RuleKind=SolderMaskExpansion|RuleName=TentedVias|Scope=Board|Minimum=4.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.54
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
