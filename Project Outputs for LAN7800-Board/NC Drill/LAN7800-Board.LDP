@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: G:\CAD\Altium\3. Work\LAN7800-Board\LAN7800-Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lan7800-board-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=lan7800-board-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

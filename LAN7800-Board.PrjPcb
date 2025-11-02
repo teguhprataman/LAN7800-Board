@@ -102,6 +102,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXKYFOMN
 
+[Document4]
+DocumentPath=Output_Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=Constraints.xml
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=67D3F0FD-9BBE-4B87-80A1-A56B59F4097A
 Description=EEPROM-B-Series
@@ -300,30 +334,122 @@ DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\LAN7800-Board.REP
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAN7800-Board-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\matrix\matrix
+DocumentPath=Project Outputs for LAN7800-Board\NC Drill\LAN7800-Board-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAN7800-Board-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\profile
+DocumentPath=Project Outputs for LAN7800-Board\NC Drill\LAN7800-Board-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAN7800-Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for LAN7800-Board\NC Drill\LAN7800-Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GM
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAN7800-Board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for LAN7800-Board\NC Drill\LAN7800-Board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\LAN7800-Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for LAN7800-Board\Gerber\LAN7800-Board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument49]
 DocumentPath=C:\ProgramData\Altium\Altium Designer {95B49F1B-07B9-4811-AB39-813B583ACB67}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
@@ -987,6 +1113,15 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1070,6 +1205,12 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1226,6 +1367,15 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1268,10 +1418,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Diodes - Transient Voltage Supressor.IntLib
+ComponentDesignItemID0=ESD7104MUTAG
+ComponentSymbolReference0=ESD7104MUTAG
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1285,6 +1441,59 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=ComponentLink2Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink2URL
+ParameterUpdate5=1
+ParameterName6=ComponentLink3Description
+ParameterUpdate6=1
+ParameterName7=ComponentLink3URL
+ParameterUpdate7=1
+ParameterName8=DatasheetVersion
+ParameterUpdate8=1
+ParameterName9=Description
+ParameterUpdate9=1
+ParameterName10=Direction
+ParameterUpdate10=1
+ParameterName11=IR Max (uA)
+ParameterUpdate11=1
+ParameterName12=Library Reference
+ParameterUpdate12=1
+ParameterName13=Manufacturer
+ParameterUpdate13=1
+ParameterName14=Mounting Technology
+ParameterUpdate14=1
+ParameterName15=Number of Lines
+ParameterUpdate15=1
+ParameterName16=PackageDescription
+ParameterUpdate16=1
+ParameterName17=PackageReference
+ParameterUpdate17=1
+ParameterName18=PackageVersion
+ParameterUpdate18=1
+ParameterName19=Packing
+ParameterUpdate19=1
+ParameterName20=PartNumber
+ParameterUpdate20=1
+ParameterName21=RoHS
+ParameterUpdate21=1
+ParameterName22=V(BR) Min (V)
+ParameterUpdate22=1
+ParameterName23=VRWM Max (V)
+ParameterUpdate23=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=ONSC-UDFN-10-517BB-01_V
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1342,6 +1551,7 @@ ComparisonOptions6=Kind=xSignal|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|
 ComparisonOptions7=Kind=xSignal Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions8=Kind=xNet|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions9=Kind=xNet Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions10=Kind=Constraint Manager Data|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1

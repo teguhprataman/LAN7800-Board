@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LAN7800-Board.PcbDoc   16/07/2025  14:01:56
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : LAN7800-Board-RoundHoles.TXT
+ASCII SlotHoles File : LAN7800-Board-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             147       PTH        12.61inch (320.31mm)
+T2      16mil (0.399mm)                                           Round             12        PTH        0.38inch (9.62mm)
+T3      20mil (0.5mm)                                             Slot              4         PTH        1.50inch (38.04mm)
+T4      35mil (0.889mm)                                           Round             10        PTH        1.21inch (30.78mm)
+T5      40mil (1.021mm)                                           Round             4         PTH        0.52inch (13.25mm)
+T6      64mil (1.631mm)                                           Round             2         PTH        0.61inch (15.49mm)
+T7      26mil (0.65mm)                                            Round             2         NPTH       0.28inch (7.20mm)
+T8      128mil (3.251mm)                                          Round             2         NPTH       0.45inch (11.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              183
+
+Total Processing Time (hh:mm:ss) : 00:00:00
