@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LAN7800-Board.PcbDoc]
+   Generated File[LAN7800-Board-RoundHoles.TXT]
+   Generated File[LAN7800-Board-SlotHoles.TXT]
+   Generated File[LAN7800-Board.LDP]
+   Generated File[LAN7800-Board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:01:56 On 16/07/2025

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 23:26:15 On 02/11/2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LAN7800-Board.PrjPcb]
+   Generated File[Bill of Materials-LAN7800-Board.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:26:18 On 02/11/2025
